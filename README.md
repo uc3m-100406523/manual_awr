@@ -5,8 +5,8 @@ Este repositorio contiene la guía de uso para el software de diseño de circuit
 
 Está basada en un manual previo, escrito para una versión anterior del *software*:
 *Introducción al CAD de microondas, Microwave Office*.
-Hecho por  [Rosa Barrio Garrido](mailto:rmbarrio@tsc.uc3m.es)
-[Magdalena Salazar Palma](mailto:salazar@tsc.uc3m.es)
+Hecho por  [Rosa Barrio Garrido](mailto:rmbarrio@tsc.uc3m.es) y
+[Magdalena Salazar Palma](mailto:salazar@tsc.uc3m.es),
 del [Grupo de Radiofrecuencia](https://grema.webs.tsc.uc3m.es/) de la UC3M.
 
 Puede hacer uso de ella a través del [archivo principal](/manual_awr.md), en *Markdown*, o clonar el repositorio y exportarlo a PDF con:
